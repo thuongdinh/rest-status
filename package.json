@@ -1,0 +1,12 @@
+{
+	"name": "rest-status",
+	"version": "0.1.0",
+	"description": "REST Response Status Codes Utility",
+	"repository": "https://github.com/zneo99/rest-status.git",
+	"keywords": ["web", "rest", "restful"],
+	"author": "Thuong Dinh <thuongdinh99@gmail.com> (http://zneo99.com)",
+	"dependencies": {
+	    "pkginfo": "*"
+	},
+	"main": "status"
+}
